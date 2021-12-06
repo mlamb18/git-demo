@@ -2,8 +2,7 @@
 
 This is the first file in this repo. 
 
-## More Info Below
+## Contents
 
-Rock On
-
-The Rolling Stones
+1. Guitar
+2. Amp
